@@ -5,7 +5,7 @@ secret-filled action platformer
 
 hello friends
 
-this repository includes a Construct 3 project file, which contains all programming, images, and other assets.
+this repository includes a Construct 3 project file, which contains all programming, images, and other assets. The contents of the file can be viewed at https://editor.construct.net/
 
 
 
